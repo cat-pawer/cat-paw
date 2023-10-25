@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/cat-pawer/cat-paw-middleware.git
+[submodule "front"]
+	path = front
+	url = https://github.com/cat-pawer/cat-paw-web.git
